@@ -1,6 +1,16 @@
 body   {
     text-align: center;
-    background-color: lightcyan;
+    background-color: lightyellow;
     font-family: Calibri, 'Trebuchet MS', sans-serif; 
     border-style: ridge;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightyellow;
+    border-style: ridge;
+    line-height: 1.5;
+   
 }
